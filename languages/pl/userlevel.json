@@ -1,0 +1,19 @@
+{
+    "admin-add-level":"Lista poziomów",
+    "admin-add-item":"Dodaj",
+    "admin-save":"Zapisz",
+    "admin-form-level-name":"Nazwa poziomu",
+    "admin-form-placeholder-level-name":"Nazwa poziomu",
+    "admin-form-placeholder-min-rep":"Reputacja od",
+    "admin-min-rep":"Minimalny poziom reputacji aby załapać się na ten poziom",
+    "admin-item-edit":"Zmień",
+    "admin-delete":"Skasuj",
+
+    "topic-REPUTATION-progress":"REPUTACJA: %1 / %2",
+    "topic-REPUTATION": "REPUTACJA: %1",
+    "topic-next-level":"Kolejny poziom: %1",
+    "highest-level":"Najwyższy poziom",
+    "level":"Poziom %1: %2",
+
+    "user-account-popover":"%1 more reputation point(s) to reach level \"%2\""
+}
