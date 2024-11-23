@@ -1,5 +1,9 @@
 # The plugin adds levels to the user and supports displaying this information
 
+## 2024/11/24 更新中文设置文件
+![Image](screenshots/中文设置界面.png?raw=true)
+-----------------------------
+
 The plugin allows creating and editing a list of levels for the user
 
 The plugin displays user levels in posts and user profile pages
